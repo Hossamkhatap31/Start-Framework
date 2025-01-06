@@ -29,7 +29,7 @@ function App() {
     
   ],
   {
-    basename:"/ReactProject1"
+    basename:"/Start-Framework"
   }
 )
   

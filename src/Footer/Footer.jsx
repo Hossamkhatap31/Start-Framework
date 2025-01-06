@@ -38,7 +38,7 @@ export default function Footer() {
             </div>
                
 
-           <p className={`${style.bg2} text-white p-4 mb-0`}>Copyright © Your Website 2021</p>
+           <p className={`${style.bg2} text-white p-4 mb-0`}>Copyright © Your Website make by Hossam-Khatap</p>
         </div>
         
            
